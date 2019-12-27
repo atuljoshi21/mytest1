@@ -1,0 +1,1 @@
+CubeCreate('myCube','dRow','dCol');
